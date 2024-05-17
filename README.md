@@ -1,1 +1,1 @@
-# -HTML-and-CSS-Projects-
+# -HTML-and-CSS-Projects- This repository contains various projects and exercises related to HTML and CSS  from my course. Each project demonstrates different aspects of web development, including layout techniques, styling, and responsive design.
